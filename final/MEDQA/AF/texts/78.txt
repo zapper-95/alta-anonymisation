@@ -1,0 +1,1 @@
+An individual reviews information from a collection of sources, with half of them having a certain characteristic at the time of the observation and the other half not having it. The information from those with the characteristic showed a difference in a particular aspect compared to those without it.

@@ -1,0 +1,1 @@
+A patient presents with a condition similar to that seen in a reference image. Examination reveals skin that is affected and contains several irregularities. The patient mentions experiencing occasional sensations in their extremities, which has led them to be more mindful in their daily activities.

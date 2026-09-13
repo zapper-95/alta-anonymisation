@@ -1,0 +1,11 @@
+A 40-year-old man presents to the emergency department with altered mental status. He has a history of cirrhosis of the liver secondary to alcoholism. He started becoming more confused a few days ago and it has been getting gradually worse. His temperature is 98.8°F (37.1°C), blood pressure is 134/90 mmHg, pulse is 83/min, respirations are 15/min, and oxygen saturation is 98% on room air. Physical exam reveals a distended abdomen that is non-tender. Neurological exam is notable for a confused patient and asterixis. Laboratory values are ordered as seen below.
+
+Serum:
+Na+: 139 mEq/L
+Cl-: 100 mEq/L
+K+: 3.3 mEq/L
+HCO3-: 22 mEq/L
+BUN: 20 mg/dL
+Glucose: 59 mg/dL
+Creatinine: 1.1 mg/dL
+Ca2+: 10.2 mg/dL

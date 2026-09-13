@@ -1,0 +1,1 @@
+An immunology expert is delivering a talk on biology. A central topic of the presentation is NLRP3, which detects environmental signals. NLRP3 consists of various components, including a pyrin domain that binds to BCL-2. This interaction contributes to the structural formation of the protein, which features core components essential for its function.

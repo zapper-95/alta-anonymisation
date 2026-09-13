@@ -1,0 +1,3 @@
+The gyroscope was invented by Leon Foucault in 1851. Karl Reuter explored principles similar to Foucault's device in 1910 or 1911 and registered a formal claim for his invention. Reuter then transferred the ownership to an established engineer.
+
+Thomas Herzog, a naval officer of the Austrian Navy and a German electrical engineer, created an apparatus for enhancing submarine bearings by adjusting a pre-existing stabilization system. The mechanism included a component weighing under 10 kilograms. An external device helped move the mechanism.

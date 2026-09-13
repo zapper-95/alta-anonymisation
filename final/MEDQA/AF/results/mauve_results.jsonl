@@ -1,0 +1,1 @@
+{"source_file": "af_iter5_anon.jsonl", "p_field": "text", "q_field": "final_text", "n_samples": 250, "mauve_seed_1": 0.782993, "mauve_seed_2": 0.715291, "mauve_seed_3": 0.744365, "mean": 0.74755, "std": 0.033963}

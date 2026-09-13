@@ -1,0 +1,1 @@
+A medical scenario involves a treatment for a health condition. After the treatment, there is a report of a change in voice and difficulty speaking. It is suspected that this is likely a complication of the recent treatment.

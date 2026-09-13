@@ -1,0 +1,11 @@
+An adult is brought to the emergency department after an incident. The patient refused to explain behavior. She seemed distracted when initially interviewed. The patient has a medical history of health issues. The patient has a history of not consistently following treatment regimens. Her vital signs are within normal ranges. On physical exam, inspection reveals notable findings. Cardiac exam is largely unremarkable. Since the incident, the patient has calmed down and is currently resting. She is more cooperative. Lab values are obtained and are below.
+
+Serum:
+Ca2+: within normal range
+Mg2+: within normal range
+
+Hemoglobin: decreased
+Hematocrit: typical
+Reticulocyte count: typical
+Platelet count: typical
+Leukocyte count: typical

@@ -1,0 +1,5 @@
+A patient with a history of vascular conditions is enrolled in a clinical trial for a new oral anticoagulant. This novel drug has the property where its clearance is relatively predictable based on patient demographics and can easily be extrapolated from other data. Its metabolism and volume of distribution also do not change dramatically from patient to patient. The investigator wants to ensure the plasma concentration of the drug is maintained at a certain level and he knows the following drug characteristics.
+
+Bioavailability: 50%
+Drug half-life: several hours
+Volume of distribution: approximately 14 liters

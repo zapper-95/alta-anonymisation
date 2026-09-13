@@ -1,0 +1,18 @@
+A 27-year-old female is brought to the emergency department by police when she attacked her date outside of a pizza restaurant. The patient refused to explain her behavior to the police. She seemed to be responding to internal stimuli when being initially interviewed. The patient has a past medical history of depression, anxiety, and obesity. The patient has a known history of medication non-compliance. Her temperature is 99.5°F (37.5°C), pulse is 112/min, blood pressure is 100/70 mmHg, respirations are 18/min, and oxygen saturation is 98% on room air. On physical exam the patient is poorly kempt and has an odd body odor. Inspection of her oropharynx reveals multiple ulcers. Cardiac exam is unrevealing with the exception of a friction rub. Since the incident, the patient has calmed down and is currently resting. She is no longer responding to internal stimuli and is more cooperative. Lab values are obtained and are below.
+
+Serum:
+Na+: 135 mEq/L
+Cl-: 100 mEq/L
+K+: 3.9 mEq/L
+HCO3-: 24 mEq/L
+BUN: 20 mg/dL
+Glucose: 70 mg/dL
+Creatinine: 1.7 mg/dL
+Ca2+: 10.0 mg/dL
+Mg2+: 1.5 mEq/L
+
+Hemoglobin: 10 g/dL
+Hematocrit: 35%
+Reticulocyte count: 4.9%
+Platelet count: 275,000/mm^3
+Leukocyte count: 5,500/mm^3

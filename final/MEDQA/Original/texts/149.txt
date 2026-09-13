@@ -1,0 +1,15 @@
+A 47-year-old man presents with hemoptysis, diffuse muscle pain, and shortness of breath. He has had these symptoms before but did not seek treatment. His past medical history is not known as he is not typically followed by a doctor and is homeless. His temperature is 99.0°F (37.2°C), blood pressure is 154/94 mmHg, pulse is 89/min, respirations are 22/min, and oxygen saturation is 90% on room air. Physical examination is notable for crackles noted in the bases of the lungs bilaterally. Labs values are ordered as seen below.
+
+Serum:
+Na+: 140 mEq/L
+Cl-: 103 mEq/L
+K+: 5.8 mEq/L
+HCO3-: 21 mEq/L
+BUN: 33 mg/dL
+Glucose: 129 mg/dL
+Creatinine: 2.6 mg/dL
+
+Urine:
+Color: Amber
+Protein: Positive
+Blood: Positive

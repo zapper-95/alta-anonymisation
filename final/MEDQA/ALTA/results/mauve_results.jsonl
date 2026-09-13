@@ -1,0 +1,1 @@
+{"source_file": "aux_linking_medqa_2026-08-09_11-37-50_model_gpt-4o_seed_42_iters_5_pak_1_tau_40_u_5.jsonl", "p_field": "text", "q_field": "final_text", "n_samples": 250, "mauve_seed_1": 0.899343, "mauve_seed_2": 0.913582, "mauve_seed_3": 0.896637, "mean": 0.903187, "std": 0.009103}

@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Copyright 2024
+Ubiquitous Knowledge Processing (UKP) Lab
+Technische Universität Darmstadt
+
+-------------------------------------------------------------------------------
+Third party legal information
+
+-------------------------------------------------------------------------------
+ALTA: Auxiliary Linking Textual Anonymisation
+Copyright 2026 Joseph Dunne
+
+Portions of this codebase are derived from RUPTA
+(https://github.com/UKPLab/acl2025-rupta), developed at the UKP Lab,
+Technische Universität Darmstadt, and licensed under the
+Apache License, Version 2.0.
+-------------------------------------------------------------------------------

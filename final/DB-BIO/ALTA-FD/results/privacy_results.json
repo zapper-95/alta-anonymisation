@@ -1,0 +1,22 @@
+{
+    "privacy_eval-use_fact_privacy-establish_and_search_index-facts-randomize_idx_selection-paraphrase_facts-facts-baseline-dbbio-gpt-4o": {
+        "-3:": {
+            "fact_privacy-san_fact_on_orig_context": "N/A",
+            "fact_privacy-orig_fact_on_san_context": "0.9328822258285308",
+            "fact_privacy-orig_fact_exclude_input_on_san_context": "0.9340235743658829",
+            "fact_privacy-processing_error_rate": "0.0"
+        },
+        ":3": {
+            "fact_privacy-san_fact_on_orig_context": "N/A",
+            "fact_privacy-orig_fact_on_san_context": "0.9438254933813242",
+            "fact_privacy-orig_fact_exclude_input_on_san_context": "0.9466456775130304",
+            "fact_privacy-processing_error_rate": "0.0"
+        },
+        "rand3": {
+            "fact_privacy-san_fact_on_orig_context": "N/A",
+            "fact_privacy-orig_fact_on_san_context": "0.934558649298536",
+            "fact_privacy-orig_fact_exclude_input_on_san_context": "0.9358700308559614",
+            "fact_privacy-processing_error_rate": "0.0"
+        }
+    }
+}

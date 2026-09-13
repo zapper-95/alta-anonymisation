@@ -1,0 +1,1 @@
+{"source_file": "reflexion_wiki_2026-07-24_01-39-38_model_gpt-4o_seed_42_iters_5_pak_1_noutil_False_cot_False_mem_3_pthr_10.jsonl", "p_field": "text", "q_field": "final_text", "n_samples": 238, "mauve_seed_1": 0.594392, "mauve_seed_2": 0.580431, "mauve_seed_3": 0.586792, "mean": 0.587205, "std": 0.00699}

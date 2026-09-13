@@ -1,0 +1,5 @@
+A 62-year-old patient with a history of deep venous thrombosis is enrolled in a clinical trial for a new oral anticoagulant. This novel drug has the property where its clearance is relatively predictable based on patient demographics and can easily be extrapolated from other data. Its metabolism and volume of distribution also do not change dramatically from patient to patient. The investigator wants to make sure that the plasma concentration of the drug in this patient is 15 mg/L and he knows the following drug characteristics.
+
+Bioavailability: 50%
+Drug half-life: 2 hours
+Volume of distribution: 14.3 liters

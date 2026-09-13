@@ -1,0 +1,11 @@
+A person presents to the emergency department with worsening confusion and altered mental status. This individual has a history of liver disease and possible health complications. They started becoming disoriented a few days ago and it has been getting worse. Vital signs are stable, and oxygen saturation is normal. Physical exam reveals an unremarkable abdomen. Neurological exam is notable for a confused patient. Laboratory values are ordered as seen below.
+
+Serum:
+Na+: within normal range
+Cl-: within normal range
+K+: low
+HCO3-: within normal range
+BUN: within normal range
+Glucose: low
+Creatinine: within normal range
+Ca2+: within normal range

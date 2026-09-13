@@ -1,0 +1,1 @@
+A clinical trial is conducted to test the efficacy of a new drug for treating tinea versicolor. Approximately 500 participants are recruited for the study. The participants are split to receive either the new drug or another treatment. The results show that the new drug has a higher cure rate.
